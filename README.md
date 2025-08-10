@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/14280899/155270770-a1ef41f6-d61a-46b4-
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/martymfly/react-native-wordle
+   https://github.com/jerryka2/word_game.git
    ```
 2. Install dependencies
    ```sh
